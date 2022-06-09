@@ -1,0 +1,1 @@
+The src folder is not populated. All scripts are within the notebook folder. Trained models are in the models folder. See reports folder for figures and final report.
