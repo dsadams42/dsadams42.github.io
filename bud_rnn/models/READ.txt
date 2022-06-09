@@ -1,3 +1,0 @@
-This folder contains saved weekly models from the notebook used in experiments. Refer to notebook to see how these are made and how best to use.
-
-Daily models were produced as well but not saved. Refer to notebook to train and save daily version.
